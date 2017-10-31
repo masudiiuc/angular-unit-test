@@ -5,7 +5,7 @@
 
     function userService() {
 
-        this.all2 = all;
+        this.all = all;
 
         function all(){
             return [
